@@ -4,7 +4,7 @@
 ## 2. Додаємо обрані іконки з наданого сайту для цього завдання та редагуємо їх.
 ## 3. Використовуємо допоміжні елементи - лінії та квадрати,відреагуємо їхні кольори,тіні та товщину обведення.
 ## 4. Перевіряємо точність відтворення дизайну й оформлюємо фінальний результат.
-<img width="392" height="420" alt="Знімок екрана 0007" src="https://github.com/user-attachments/assets/88a69099-4a41-4744-b83f-4e1f9ea67ad2" />
+<img width="552" height="554" alt="Знімок екрана 2025-10-09 184646" src="https://github.com/user-attachments/assets/f1c91ab4-6f86-417a-9b28-0ebd6c0f9380" />
 
 https://www.figma.com/design/Hjr479PXlbE4KclKjGf6im/Untitled?node-id=0-1&t=TcGGVshshfwL7B4S-1
 
