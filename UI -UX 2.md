@@ -4,3 +4,7 @@
 ![photo001](https://github.com/user-attachments/assets/1229569d-8791-462f-9328-45030bda84e2)
 ## 2. Тепер додаємо 5 прямокутників за допомогою панелі інструментів.
 ![photo002](https://github.com/user-attachments/assets/956d4bc3-48f2-493f-859b-72304866d71d)
+## 3. Коригуємо кути за допомогую інструментів.
+![photo003](https://github.com/user-attachments/assets/bd6dbe46-3a23-4972-a63e-0d3947a17687)
+## 4. Тепер змінюємо колір фігур
+![photo004](https://github.com/user-attachments/assets/b341e562-f2cd-4fcf-b012-87d0c1c53e0c)
