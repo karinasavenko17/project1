@@ -12,7 +12,7 @@
 ## Результати роботи
 
 ### 1. Значок “Місяць”
-![Місяць](images/Substract.png)  
+![Місяць](images/Subtract.png)  
 
 ### 2. Значок “Бомба”
 ![Бомба](images/Union.png)  
